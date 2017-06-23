@@ -45,6 +45,7 @@ dependencies {
 
     compile deps.supportV7
     compile deps.supportDesign
+    compile deps.supportCards
     compile deps.supportRecyclerView
     compile deps.supportAnnotations
     compile deps.kotlinStdlib
